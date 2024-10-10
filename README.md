@@ -1,5 +1,5 @@
-group 18
-   members
+group 18 members
+
 John Ng'ang'a    CT101/G/20800/23
 Robert Thuo      CT101/G/18144/23
 Mathenge David  CT101/G/17942/23
